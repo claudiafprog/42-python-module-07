@@ -1,4 +1,4 @@
-Markdown# DataDeck — Abstract Card Architecture
+# DataDeck — Abstract Card Architecture
 
 Master Python's design patterns with abstract classes, mixins/interfaces, and modular card systems.
 
