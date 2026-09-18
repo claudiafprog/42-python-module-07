@@ -61,6 +61,7 @@ Master Python's design patterns with abstract classes, mixins/interfaces, and mo
 # 🚀 Quick Start / VerificationBash# Type checking & linting check (recommended)
 
 mypy .
+
 flake8 .
 
 # Run test suites
